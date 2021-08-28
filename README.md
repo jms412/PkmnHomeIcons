@@ -1,45 +1,35 @@
-Pokémon Home style Icons for various Pokémon Go Map and Bot Projects
 
-NovaBot (Or other ID-FORM-COSTUME structure bots that accept repo url's)
+Pokemon Home Style Half Shiny 512x512
 
-iconurl https://raw.githubusercontent.com/nileplumb/PkmnHomeIcons/master/RDM_OS_128/pokemon/
+URL: `https://raw.githubusercontent.com/jms412/PkmnHomeIcons/master/UICONS_Half_Shiny/`
 
-RDM Download and replace your docker image folder with the RDM_OS_128 folder
+Example: https://raw.githubusercontent.com/jms412/PkmnHomeIcons/master/UICONS_Half_Shiny/pokemon/113.png
 
-PMSF Outlined + Shadows (128x128) Optimized.
-
-iconRepository = 'https://raw.githubusercontent.com/nileplumb/PkmnHomeIcons/master/pmsf_OS_128/';
-
-or download if using locally
-
-PMSF 512x512
-
-iconRepository = 'https://raw.githubusercontent.com/nileplumb/PkmnHomeIcons/master/pmsf/';
-
-PMSF Outlines and shadows 512x512
-
-iconRepository = 'https://raw.githubusercontent.com/nileplumb/PkmnHomeIcons/master/pmsf_outline_shadow/';
+![113](https://user-images.githubusercontent.com/80012316/131054180-99776933-ff5c-4ecf-89da-4f5e8b74a7ad.png)
 
 
-The PMSF folder should also be compatible with some popular reporting bots (hence some duplicate images and sub folders.)
+Pokemon Home Style Half Shiny 512x512 + Sparkles
 
-Currently PMSF still uses some local static files (eggs, grunts etc) so you may want to manually replace some of the images you host locally inside the following PMSF folder
+URL: `https://raw.githubusercontent.com/jms412/PkmnHomeIcons/master/UICONS_Half_Shiny_Sparkles/`
 
-/PMSF/static/
+Example: https://raw.githubusercontent.com/jms412/PkmnHomeIcons/master/UICONS_Half_Shiny_Sparkles/pokemon/113.png
 
-Simply replace / rename any images you want from the Alternative Egg designs, grunts subfolder, or misc etc (eg Slider images for nests and stardust)
-
-You may need to rebuild PMSF after replacing images, same as when you update your build.
-
-npm install && npm run build
+![113](https://user-images.githubusercontent.com/80012316/131054242-235e3a8e-6fdb-4776-81ff-d1948ea0a92c.png)
 
 
-Any donations very welcome if you want to support my personal morale / upkeep of image repo's
+Pokemon Home Style Half Shiny 128x128
 
-Paypal:
+URL: `https://raw.githubusercontent.com/jms412/PkmnHomeIcons/master/UICONS_Half_Shiny_128/`
 
-https://paypal.me/NilePlumb
+Example: https://raw.githubusercontent.com/jms412/PkmnHomeIcons/master/UICONS_Half_Shiny_128/pokemon/113.png
 
-Bitcoin:
+![113](https://user-images.githubusercontent.com/80012316/131054298-ecfdaf92-89a3-4221-8857-b368f6ed47b6.png)
 
-1L6XpE4AU8XfRGyxPWWaLA4VacSw9vCBRx
+
+Pokemon Home Style Half Shiny 128x128 + Sparkles
+
+URL: `https://raw.githubusercontent.com/jms412/PkmnHomeIcons/master/UICONS_Half_Shiny_Sparkles_128/`
+
+Example: https://raw.githubusercontent.com/jms412/PkmnHomeIcons/master/UICONS_Half_Shiny_Sparkles_128/pokemon/113.png
+
+![113](https://user-images.githubusercontent.com/80012316/131054381-325bdc75-ce96-49d0-b650-66de3abe7baf.png)
