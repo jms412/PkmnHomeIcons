@@ -33,3 +33,8 @@ URL: `https://raw.githubusercontent.com/jms412/PkmnHomeIcons/master/UICONS_Half_
 Example: https://raw.githubusercontent.com/jms412/PkmnHomeIcons/master/UICONS_Half_Shiny_Sparkles_128/pokemon/113.png
 
 ![113](https://user-images.githubusercontent.com/80012316/131054381-325bdc75-ce96-49d0-b650-66de3abe7baf.png)
+
+
+Credits:
+
+NilePlumb - All Costumes (https://www.deviantart.com/nileplumb/gallery) - https://paypal.me/NilePlumb
