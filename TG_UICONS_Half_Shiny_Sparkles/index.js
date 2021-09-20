@@ -14,7 +14,7 @@ module.exports.update = async function update() {
       }
     }))
     if (!hasSubFolders) {
-      newJson = files.filter(file => file.includes('.png'))
+      newJson = files.filter(file => file.includes('.webp'))
     }
     fs.writeFileSync(`./${folder === './' ? '' : `${folder}/`}index.json`, JSON.stringify(newJson))
     return newJson
