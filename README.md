@@ -23,6 +23,6 @@ Example: https://raw.githubusercontent.com/jms412/PkmnHomeIcons/master/UICONS_Ha
 ![113](https://user-images.githubusercontent.com/80012316/131054381-325bdc75-ce96-49d0-b650-66de3abe7baf.png)
 
 
-Credits:<br />![image](https://user-images.githubusercontent.com/80012316/131579315-0f4e4089-db72-4edd-9f2d-303f6fcf2018.png)
+Credits:<br />
 
 NilePlumb - All Costumes (https://www.deviantart.com/nileplumb/gallery) - https://paypal.me/NilePlumb
